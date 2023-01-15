@@ -1,5 +1,5 @@
 site_name: Codified-JSON
-site_url: 
+site_url: https://ty2huang.github.io/codified-json/
 theme: readthedocs
 markdown_extensions:
   - attr_list
