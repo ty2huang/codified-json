@@ -1,0 +1,5 @@
+site_name: Codified-JSON
+site_url: 
+theme: readthedocs
+markdown_extensions:
+  - attr_list
